@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Lenovo\\Desktop\\mysql-connector-j-9.2.0.jar",
+        "c:\\Users\\Lenovo\\Desktop\\ResultSet2xml.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
